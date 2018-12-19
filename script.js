@@ -1,7 +1,7 @@
 var noun1 = prompt("Enter noun:");
 var noun2 = prompt("Enter another noun:");
 var color = prompt('Enter color name:');
-var pronoun = prompt('Enter pronoun name:');
+var pronoun = prompt('Enter pronoun:');
 
 var str1 = noun1+" are red, ";
 var str2 = noun2+ " are "+ color;
